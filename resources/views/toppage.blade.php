@@ -104,7 +104,7 @@
             <div class="row no-gutters">
                 <div class="col-lg-12 mx-auto">
                     <div class="section-h2" id="pref-title">
-                        <h2>Japan Communities</h2>
+                        <h2>JAPAN COMMUNITIES</h2>
                     </div>
                 </div>
           　    <div class="section-text col-lg-9 mx-auto">
