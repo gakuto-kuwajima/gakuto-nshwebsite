@@ -20,7 +20,7 @@
         <meta property="og:image" content="@yield('ogimage')" />
         <meta property="og:site_name" content="GAKUTOのニュースタイルハッスル情報部屋 | GAKUTO'S NEW STYLE HUSTLE INFORMATION ROOM" />
         <meta property="og:locale" content="ja_JP" />
-        <meta property="fb:app_id" content=" 714173509023789 " />
+        <meta property="fb:app_id" content="714173509023789" />
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@mydance365">
 
@@ -34,7 +34,7 @@
         <meta name="msapplication-TileImage" content="{{ asset('img/windows-pin.png')}}" />
         <meta name="msapplication-TileColor" content="#4CE096"/>
 
-        <title>@yield('title') | GAKUTOのニュースタイルハッスル情報部屋</title>
+        <title>GAKUTOのニュースタイルハッスル情報部屋 | GAKUTO'S NEW STYLE HUSTLE INFORMATION ROOM</title>
 
         <!-- Scripts -->
         {{-- Laravel標準で用意されているJavascriptを読み込みます --}}
